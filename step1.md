@@ -4,7 +4,7 @@ Get your login token to access the dashboard securely:
 
 ```bash
 cat /root/headlamp-token
-```{{exec}}
+```
 
 ---
 
