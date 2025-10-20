@@ -1,0 +1,111 @@
+# Kubernetes Playground with Headlamp UI
+
+> An interactive Kubernetes learning environment with Headlamp - a modern web-based dashboard for visualizing and managing your cluster.
+
+## 🚀 Launch Playground
+
+**Start experimenting now:** [https://killercoda.com/headlamp-ui/scenario/headlamp-ui-k8s](https://killercoda.com/headlamp-ui/scenario/headlamp-ui-k8s)
+
+No installation required. No configuration needed. Just click and start learning Kubernetes.
+
+---
+
+## ✨ Features
+
+- **Fully Configured Kubernetes Cluster** - Ready to use in seconds
+- **Headlamp UI Pre-installed** - Access through your browser on port 30080
+- **Secure Authentication** - Token automatically generated for you
+- **Zero Setup** - No local tools or dependencies required
+- **Free & Interactive** - Learn by doing, not just reading
+
+---
+
+## 🎯 Perfect For
+
+- **Beginners** exploring Kubernetes for the first time
+- **Developers** testing configurations and workloads
+- **Instructors** demonstrating Kubernetes concepts
+- **Teams** prototyping without infrastructure setup
+- **Anyone** who wants to experiment without breaking production
+
+---
+
+## 💡 What You Can Do
+
+### Create Resources
+Deploy applications, services, config maps, secrets, and more through the visual interface
+
+### Explore Your Cluster
+Navigate namespaces, view workloads, inspect pods, and understand relationships between resources
+
+### Monitor in Real-Time
+Watch logs stream live, check resource usage, and track events as they happen
+
+### Learn Visually
+See how Kubernetes objects connect and interact through an intuitive dashboard
+
+### Experiment Safely
+Try commands, break things, learn from mistakes - it's a sandbox environment
+
+---
+
+## 🛠️ Technical Stack
+
+| Component | Details |
+|-----------|---------|
+| **Platform** | Killercoda Interactive Environment |
+| **Kubernetes** | Latest stable version |
+| **UI Dashboard** | Headlamp |
+| **Access Port** | 30080 (NodePort) |
+| **Authentication** | Token-based (auto-generated) |
+
+---
+
+## 📖 About Headlamp
+
+Headlamp is a modern, user-friendly Kubernetes UI that makes cluster management accessible:
+
+- **Intuitive Design** - Clean interface that doesn't overwhelm
+- **Real-Time Updates** - See changes as they happen
+- **Comprehensive Views** - From high-level overviews to detailed resource specs
+- **Open Source** - Community-driven and actively maintained
+
+[Learn more about Headlamp →](https://headlamp.dev/)
+
+---
+
+## 📸 Preview
+
+<img width="2558" height="1303" alt="image" src="https://github.com/user-attachments/assets/bcf4049a-2cb2-4e9c-a31c-ef580c7a13fa" />
+
+
+*Headlamp's clean interface makes Kubernetes management intuitive and visual*
+
+---
+
+## 🚦 Getting Started
+
+1. Click the playground link above
+2. Wait for the environment to initialize (~30 seconds)
+3. Get your authentication token from the terminal
+4. Access Headlamp UI via the Traffic/Ports button (port 30080)
+5. Start creating and exploring!
+
+---
+
+## 🤝 Contributing
+
+Found a bug? Have a suggestion? Contributions are welcome!
+
+- Open an issue for bugs or feature requests
+- Submit a pull request with improvements
+- Share feedback on your learning experience
+
+---
+
+## 📄 License
+
+MIT License - feel free to use this for learning, teaching, or building upon.
+
+---
+
