@@ -17,7 +17,4 @@ cat /root/headlamp-token
 
 ✅ You now have full access to manage, explore, and monitor Kubernetes resources visually using the **Headlamp UI**.
 
----
 
-💡 *Tip:* Explore Namespaces, Deployments, and ConfigMaps directly from the UI — no `kubectl` required! ☸️
-````
