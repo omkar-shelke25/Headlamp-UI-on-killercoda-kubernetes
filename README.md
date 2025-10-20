@@ -76,7 +76,10 @@ Headlamp is a modern, user-friendly Kubernetes UI that makes cluster management 
 
 ## 📸 Preview
 
-<img width="2558" height="1303" alt="image" src="https://github.com/user-attachments/assets/bcf4049a-2cb2-4e9c-a31c-ef580c7a13fa" />
+<!-- full-width, scales down on small screens -->
+<img src="https://github.com/user-attachments/assets/bcf4049a-2cb2-4e9c-a31c-ef580c7a13fa"
+     alt="Headlamp screenshot"
+     style="max-width:100%;height:auto;display:block;margin:0 auto;" />
 
 
 *Headlamp's clean interface makes Kubernetes management intuitive and visual*
