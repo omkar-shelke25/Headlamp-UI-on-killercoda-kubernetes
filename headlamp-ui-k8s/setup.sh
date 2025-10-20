@@ -13,9 +13,6 @@ helm install headlamp headlamp/headlamp \
   --set service.type=NodePort \
   --set service.nodePort=30080
 
-# Wait for deployment
-kubectl -n headlamp rollout status deploy/headlamp --timeout=120s
-
 # Create and save token
 kubectl create token headlamp -n headlamp > /root/headlamp-token
 
