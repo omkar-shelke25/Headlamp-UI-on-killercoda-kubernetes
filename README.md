@@ -104,17 +104,6 @@ Headlamp is a modern, user-friendly Kubernetes UI that makes cluster management 
 5. Start creating and exploring!
 
 ---
-
-## 🤝 Contributing
-
-Found a bug? Have a suggestion? Contributions are welcome!
-
-- Open an issue for bugs or feature requests
-- Submit a pull request with improvements
-- Share feedback on your learning experience
-
----
-
 ## 📄 License
 
 MIT License - feel free to use this for learning, teaching, or building upon.
