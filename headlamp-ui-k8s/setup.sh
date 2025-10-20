@@ -4,7 +4,7 @@
 kubectl create namespace headlamp
 
 # Add Headlamp repo
-helm repo add headlamp https://kubernetes-sigs.github.io/headlamp
+helm repo add headlamp https://kubernetes-sigs.github.io/headlamp/
 helm repo update
 
 # Install Headlamp with NodePort
