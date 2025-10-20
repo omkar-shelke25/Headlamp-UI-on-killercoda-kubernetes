@@ -1,0 +1,20 @@
+{
+  "title": "Kubernetes with Headlamp UI",
+  "description": "Kubernetes cluster with Headlamp UI - create and explore resources",
+  "icon": "fa-dharmachakra",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Access Headlamp",
+        "text": "step1.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
