@@ -20,7 +20,9 @@ Get your login token to access the dashboard securely:
 💡 **Note:**
 
 > Before logging in, make sure all Headlamp components are running in the namespace:
+> 
 >`kubectl get all -n headlamp`{{exec}}
+> 
 > All pods should show a **Running** status before you access the dashboard.
 
 
