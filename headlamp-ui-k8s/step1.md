@@ -2,9 +2,7 @@
 
 Get your login token to access the dashboard securely:
 
-```bash
-cat /root/headlamp-token; echo
-```{{exec}}
+`cat /root/headlamp-token; echo`{{exec}}
 
 ---
 
@@ -22,11 +20,7 @@ cat /root/headlamp-token; echo
 💡 **Note:**
 
 > Before logging in, make sure all Headlamp components are running in the namespace:
->
-> ```bash
-> kubectl get all -n headlamp
-> ```{{exec}}
->
+>`kubectl get all -n headlamp`{{exec}}
 > All pods should show a **Running** status before you access the dashboard.
 
 
